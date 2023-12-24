@@ -13,24 +13,24 @@ Welcome to the CODSOFT repository! This repository contains machine learning pro
 
 - Implemented a machine learning model to predict movie genres based on plot summaries.
 - Techniques used: TF-IDF, Logistic Regression.
-- [Demo]([insert_link](https://github.com/saadfrh/CODSOFT/blob/main/movie-genre-classifier.ipynb)) | [Dataset](https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb)
+- [Demo](https://github.com/saadfrh/CODSOFT/blob/main/movie-genre-classifier.ipynb) | [Dataset](https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb)
 
 ## [Project 2: Credit Card Fraud Detection](#project-2-credit-card-fraud-detection) 💳🚫
 
 - Developed a fraud detection model using algorithms like Decision Trees and Random Forests.
-- [Demo]([insert_link](https://github.com/saadfrh/CODSOFT/blob/main/credit-card-fraud-transaction-classification.ipynb)) | [Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
+- [Demo](https://github.com/saadfrh/CODSOFT/blob/main/credit-card-fraud-transaction-classification.ipynb) | [Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
 
 ## [Project 3: Customer Churn Prediction](#project-3-customer-churn-prediction) 📉🔄
 
 - Created a model to predict customer churn for subscription-based services.
 - Techniques used: Random Forests, Gradient Boosting.
-- [Demo]([insert_link](https://github.com/saadfrh/CODSOFT/blob/main/bank_customer_churn_prediction(eda_modeling).ipynb)) | [Dataset](https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction)
+- [Demo](https://github.com/saadfrh/CODSOFT/blob/main/bank_customer_churn_prediction(eda_modeling).ipynb) | [Dataset](https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction)
 
 ## [Project 4: Spam SMS Detection](#project-4-spam-sms-detection) 📱🚫
 
 - Implemented an AI model to classify SMS messages as spam or legitimate.
 - Techniques used: TF-IDF, Support Vector Machines.
-- [Demo]([insert_link](https://github.com/saadfrh/CODSOFT/blob/main/sms-spam-detection-by-saadfr.ipynb)) | [Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
+- [Demo](https://github.com/saadfrh/CODSOFT/blob/main/sms-spam-detection-by-saadfr.ipynb) | [Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 
 
 
